@@ -40,7 +40,6 @@ grid-template-rows: repeat(18, 1fr);
     background: yellow;
 }
 #mainscores {
-    border: 2px solid black;
     display: inline-block;
     color: white;
     font-size: 2pc;
